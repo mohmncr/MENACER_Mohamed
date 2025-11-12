@@ -2,11 +2,11 @@
 ![CAPS](https://github.com/momenacer/MENACER_Mohamed/assets/127967325/07aaf58e-e79f-4df1-be06-6079f712f93d)
 
 # Bienvenue sur mon profil GitHub !
-Jeune étudiant passionné par les nouvelles technologies, la robotique et **l'IOT**. J’ai une Licence en Automatique (*Algérie*), et une deuxième Licence EEA à l’Ecole Universitaire de Physique et Ingénierie (*France*). Je travaile à temps partielle en tant que développeur avec ***[OwlStack](https://www.linkedin.com/company/owl-stack/)***.  
+Jeune étudiant passionné par les nouvelles technologies, la robotique et **l'IOT**. J’ai une Licence en Automatique, et une deuxième Licence en Electronique à l’Ecole de Physique et Ingénierie. Je travaile à temps partielle en tant que développeur logiciel embarqué.  
 
-## Projets universitaires 
+## Projets 
 
-Vous trouvez sur mon profil les projets universitaires les plus intéréssants sur lesquels j'ai travaillé jusqu'à présent :
+Vous trouvez sur mon profil les projets les plus intéréssants sur lesquels j'ai travaillé jusqu'à présent :
 
 ### [Projet 1 : Serre Agricole Intelligente](https://github.com/momenacer/MENACER_Mohamed/tree/main/Serre%20Agricole%20Intelligente) (*cliquer sur le projet pour voir les détails !*)
 Ce projet consistait à concevoir un système qui permet de collecter en temps réel les indicateurs bioclimatiques d’une serre, basé sur l'utilisation des
@@ -32,7 +32,7 @@ Ce projet de station météo utilise la carte STM32F746G-DISCOVERY de STMicroele
 
 Je suis ouvert aux collaborations et aux contributions. Si vous êtes intéressé par l'un de mes projets ou si vous avez des idées de collaboration, n'hésitez pas à me contacter. Je suis toujours prêt à apprendre de nouvelles technologies et à partager mes connaissances avec les autres.
 
-N'hésitez pas à explorer mes projets, à me poser des questions ou à me faire part de vos commentaires. Je suis ravi de discuter de mes travaux et d'échanger des idées.
+N'hésitez pas à explorer mes projets, à me poser des questions ou à me faire part de vos commentaires.
 
 ### *Merci d'avoir visité mon profil GitHub !*
 
